@@ -1,0 +1,16 @@
+
+git clone https://github.com/dipin8338/Sample.git
+
+Git and Github 
+
+alternatoive : aws,bitbucket,git lab
+
+git add .   add the file to the staging area
+
+git commit -m"message"  >>> to commit the change in the trackred file
+git push orgin main     pushing the file to the git hub
+
+
+git add filename
+
+git add .
