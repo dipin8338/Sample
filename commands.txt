@@ -15,3 +15,7 @@ git add filename
 
 git add .
 
+
+a
+b 
+c 
